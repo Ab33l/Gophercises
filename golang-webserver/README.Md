@@ -4,6 +4,7 @@ This is a basic webserver application built to serve both static HTML and dynami
 
 # Areas of Improvement
 
-Add a feature for URL rewriting
-The only headers it must support are Content-Type and Content-Length
+1. Add a feature for URL rewriting
+
+2. The only headers it must support are Content-Type and Content-Length
 
